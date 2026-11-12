@@ -17,14 +17,14 @@ BSc Information Technology student specialising in Software Engineering at Eduvo
 
 ## Selected work
 
-- **Student Grade Calculator** — Python desktop application using Tkinter and CSV, with automated calculation tests.
+- [**Student Grade Calculator**](https://github.com/Lisa1920/student-grade-calculator) — Python desktop application using Tkinter and CSV, with weighted grade calculations, input validation, and unit tests.
 - **Transport Cost Comparator** — Java Android application for comparing transport costs, with SQLite-backed reporting.
 - **Healthcare Company** — Android appointment-booking demonstration implemented in Java with SharedPreferences.
 - **Calendar Java App** — Java-based Android calendar interface.
-- **Python algorithm exercises** — Stack-based browser-history operations and recursive disk-usage calculations.
+- [**Python algorithm exercises**](https://github.com/Lisa1920/python-algorithm-exercises) — Stack-based browser-history operations and recursive disk-usage calculations.
 - **Course Registration Database** — Relational-algebra exercises with LaTeX source.
 
-See the [project archive](https://github.com/Lisa1920/software-engineering-projects) for source archives, setup notes, and recovery details. The repository is private.
+Additional coursework archives and recovery notes remain in the [private project archive](https://github.com/Lisa1920/software-engineering-projects).
 
 ## Connect
 
