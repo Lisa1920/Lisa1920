@@ -1,37 +1,34 @@
-# Hi, I’m Oko Lisa 👋
+# Hi, I’m Oko Lisa
 
-I’m a BSc Information Technology student specialising in Software Engineering at Eduvos. I enjoy learning by building practical applications, working through technical problems, and documenting what I learn.
+BSc Information Technology student specialising in Software Engineering at Eduvos. I build practical applications, investigate technical problems, and document my learning across software development and data systems.
 
-## 💻 About me
+## Profile
 
-- 🎓 Studying Software Engineering
-- 🌱 Developing my skills in Python, Java, Android development, databases, and algorithms
-- 🧪 Interested in testing, problem-solving, and writing maintainable software
-- 📚 Using coursework and personal practice to grow as a developer
+- **Programme:** BSc Information Technology, Software Engineering
+- **Focus areas:** Python and Java development, Android applications, databases, and algorithms
+- **Engineering interests:** Software testing, algorithmic problem-solving, and maintainable application design
 
-## 🛠️ Technologies and tools
+## Technologies and tools
 
-- **Languages:** Python, Java, Kotlin, SQL
-- **App development:** Android, XML layouts, Jetpack Compose, Tkinter
-- **Data and testing:** CSV, SQLite, Python `unittest`
-- **Tools:** Visual Studio Code, Android Studio, Git, GitHub
+- **Programming languages:** Python, Java, Kotlin, SQL
+- **Application development:** Android, XML layouts, Jetpack Compose, Tkinter
+- **Data and testing:** CSV, SQLite, Python unittest
+- **Development tools:** Visual Studio Code, Android Studio, Git, GitHub
 
-## 🌟 Selected work
+## Selected work
 
-My recovered coursework and project archive includes:
+- **Student Grade Calculator** — Python desktop application using Tkinter and CSV, with automated calculation tests.
+- **Transport Cost Comparator** — Java Android application for comparing transport costs, with SQLite-backed reporting.
+- **Healthcare Company** — Android appointment-booking demonstration implemented in Java with SharedPreferences.
+- **Calendar Java App** — Java-based Android calendar interface.
+- **Python algorithm exercises** — Stack-based browser-history operations and recursive disk-usage calculations.
+- **Course Registration Database** — Relational-algebra exercises with LaTeX source.
 
-- **Student Grade Calculator** — Python desktop application using Tkinter and CSV, with calculation tests
-- **Transport Cost Comparator** — Java Android application with travel-cost calculations and SQLite reports
-- **Healthcare Company** — Android appointment demonstration using Java and SharedPreferences
-- **Calendar Java App** — Java Android calendar interface
-- **Python algorithm exercises** — browser-history stacks and recursive disk-usage calculations
-- **Course Registration Database** — relational-algebra work with LaTeX source
+See the [project archive](https://github.com/Lisa1920/software-engineering-projects) for source archives, setup notes, and recovery details. The repository is private.
 
-See the [project archive](https://github.com/Lisa1920/software-engineering-projects) for source ZIPs, setup notes, and recovery details. The archive is private.
+## Connect
 
-## 📫 Connect
-
-You can reach me through [GitHub](https://github.com/Lisa1920).
+[GitHub](https://github.com/Lisa1920)
 
 ---
 
